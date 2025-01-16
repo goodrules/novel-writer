@@ -1,0 +1,48 @@
+# Notes on the main story
+## Main character (who leads the story):
+- Garrett Brand
+
+## Status Quo (situation at the start):
+- Before the main story, Michael Brand disappeared and is presumed dead after leading a team to study newly discovered chambers beneath the Old New Synagogue; They found evidence of multiple Golem attempts before the successful one; A completed Golem bore strange markings - proto-sigils that Michael began to decode; The incident occurred when they tried to analyze the energy patterns; Jason, Garrett's half brother and Michael's son, was separated from Michael in the aftermath; Jason was the only presumed survivor, no other bodies were ever found, just residual energy patterns that defied analysis
+- Garrett and his 2 best friends, Dillon and Brent, are childhood friends and prodigies in both the physical and magical sciences.  They have just completed post-graduate studies for magic and engineering and have started as Thaumarchaeologists, working under a renowned magic professor, Dr. Asher Reed, who was friends with Garrett’s father and is now Garrett’s mentor (and father figure).
+- Garrett, Dillon, and Brent were also top tier duelists.  3v3 magic duels are prominent in academia, professionally, as well as in the “underground”.
+- Garrett, Dillon, and Brent work under Dr. Asher Reed at a prestigious thaumarchaeological institute
+- They're famous in academic circles for both their research and their championship dueling record
+- Garrett's mother Marie has shifted to purely theoretical physics since Michael's disappearance
+- There are growing tensions between magic and non-magic communities regarding access to magical resources and knowledge
+- Garrett has always felt like something is missing, leaving him feeling unfulfilled and a calling to discover what it is
+- Jason Black has been raised by his ambitious and opportunistic mother, however developed a code of honor when he was young during his early training with Dr. Asher Reed.  His training with Dr. Reed was stopped when his father disappeared, and resumed by his mother Vera who focused more on exposing weakness and using manipulation.  
+- Jason is an incredibly powerful magic user, skilled in both spells and auras, as well as a genius intellect for engineering
+
+## Inciting incident (what disturbs the status quo, the conflict):
+- Dr. Reed and Marie are abducted by a secret organization, a group tied to Black Industries, seeking to weaponize the knowledge from Michael's research. A coded message from Reed is sent to Garrett as a failsafe if anything were to happen to him, which leads Garrett back to his father's old lab
+- Garrett, Brent and Dillon are suprisingly joined by Nora, Brent's sister, who followed them to the lab
+- Garrett and Nora, also a technological savant, is able to power on some of Michael's old equipment, and finds an encrypted messaged sent here the day that Michael disappeared, containing a digital copy of Michael's journal
+- The journal contains seemingly random bits of Michael's research, but the group is able to deduce that Michael Brand was investigating the intersection of AI, physics, and magic, and possibly the discovery of a new type of magic
+- Vera Black begins moving pieces behind the scenes in parallel, using access to her own knowledge of Michael's research.  She is tipped off that Garrett has found Michael's personal research journal, and sends her son Jason to retrieve it
+
+## Developments (what happens next):
+- Garrett’s fathers journal leads them on a chase through Germany and the Czech republic, seeking what they eventually discover to be the golem, a magical application of artificial intelligence, enabled by the use of sigils (this is the new form of magic that Garrett’s father believed to exist)
+- The team discovers Michael Brand had found evidence of early "programming" in ancient magical artifacts
+- Marie Brand, seperately, realizes her quantum and AI research might be the missing piece to completing Michael's work
+- Jason reveals himself but not the full truth, positioning himself as an ally while serving Vera's agenda
+- The chase through Germany and Prague reveals a pattern of ancient attempts to store and transfer magical energy
+- The hunt for the Golem leads to discovery of ancient proto-sigils in Prague's Jewish Quarter
+- Vera Black emerges from the shadows, revealing she's been manipulating magical research and discovery for decades
+- When Jason fails to stop Garrett's team, Vera moves directly against them, kidnapping Marie and Dr. Reed
+- Jason starts to suspect he's on the wrong side when his mother kidnaps his godfather, Dr. Reed
+- Vera wants sigil technology not to democratize magic, but to create a system where she can control who has access to magic.  She has knowledge of Rabbi Loew's other texts, as well as an ancient device, that removes ones ability to utilize magic
+
+## Crisis (how things come to a head):
+- Garrett and team race to prevent Vera from using Marie's AI expertise to corrupt the sigil discovery
+- Jason learns the full truth about his parentage during a confrontation with Vera, and how Vera had a hand in Michael's presumed death
+- The final battle involves both magical dueling and a race to properly implement the sigil technology
+- Garrett's team and Jason work together to stop Vera, their combined knowledge of their father's work proving crucial
+
+## Resolution (how things resolve):
+- Marie nudges Garrett to use his physics knowledge alongside his magic and discovers the truth about sigils, found to be the ability to program and store magic into objects
+- While Brent, Dillon, and now Jason hold off against Vera's forces, Garrett and Nora are able to activate the Golem
+- They quickly discover the Golem has a mind of its own, being deactived similar to being asleep, and recognizes Garrett's energy as the same as his fathers
+- Flash back to when Michael was also able to activate the Golem and have many conversations with it which provided insight into much of his research.  Michael was able to save the Golem from being destroyed which is why Michael disappeared
+- The Golem sacrifices itself to destroy the magic negation device, allowing for Garrett, his friends, Jason, Marie, and Asher to escape, while also foiling Vera's plans
+- Vera also escapes, the group doesn't know where
