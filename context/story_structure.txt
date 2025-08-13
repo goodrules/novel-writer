@@ -1,0 +1,68 @@
+# Story Structure Framework
+## Three-Act Structure
+1. Act 1: Setup
+   - Hook: Establish protagonist in their normal world with genre-specific elements
+   - World Foundation: Introduce the world and establish core speculative elements (magic system, technology, social dynamics, etc.)
+   - Inciting Incident: The event that disrupts the ordinary and sets the story in motion
+   - Call to Adventure: The protagonist makes a decision or takes an action that fully commits them to the story's central conflict. This involves leaving their ordinary world behind
+
+2. Act 2: Confrontation
+   - Rising Action: The stakes get higher, the challenges become more difficult, and the conflict intensifies. The protagonist faces tests, makes allies and enemies, and develops their skills or knowledge
+   - Midpoint: Turning point where the protagonist experiences a victory or a defeat that significantly impacts the story's direction
+   - Crisis: Another major turning point that forces the protagonist to re-evaluate their goals or approach and sets the stage for the climaxDarkest moment connecting personal stakes to larger conflict
+
+3. Act 3: Resolution
+   - Climax: The peak of the story's conflict, where the protagonist confronts their main antagonist or challenge
+   - Falling Action: The immediate consequences of the climax are revealed, and loose ends are tied up
+   - Resolution: The story concludes, showing the protagonist's new normal and the long-term impact of their journey
+
+# World-Building Methodology
+## Layered Development Approach
+1. Surface Layer
+   - Physical Environment: Geography, climate, technology
+   - Daily Life: Societal norms, routines, customs
+   - Visible Systems: Government, organizations, hierarchies
+
+2. Middle Layer
+   - Cultural Framework: Belief systems, traditions
+   - Economic Systems: Resource distribution, trade networks
+   - Recent History: Events shaping current conflicts
+
+3. Foundation Layer
+   - Origin Framework: World creation/background
+   - Fundamental Rules: Magic/technology systems
+   - Power Structures: Hidden influences and organizations
+
+# Character Development Process
+## Growth Framework
+1. External Development
+   - Skill Progression: Abilities and competencies
+   - Social Evolution: Status and relationship changes
+   - Physical Journey: World interaction and impact
+
+2. Internal Development
+   - Psychological Growth: Self-discovery arc
+   - Moral Framework: Value system development
+   - Emotional Journey: Processing experiences
+
+3. Relationship Matrix
+   - Dynamic Evolution: Changing interpersonal connections
+   - Alliance Building: Friend/enemy development
+   - Impact Assessment: Character influence on world
+
+# Integration Guidelines
+## Story Element Fusion
+1. Scene Level
+   - Combine character moments with world-building
+   - Link personal stakes to larger conflicts
+   - Layer multiple subplot elements
+
+2. Chapter Level
+   - Balance subplot progression
+   - Build connected mini-arcs
+   - Link personal growth to world events
+
+3. Novel Level
+   - Maintain thematic consistency
+   - Create satisfying resolution across all elements
+   - Establish sequel potential if desired

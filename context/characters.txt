@@ -6,7 +6,7 @@
 - Also a prodigy in physics and math, but relies heavily on his magic, much to his mother's chagrin
 - Recent graduate of The Blackwell Institute of Thaumaturgical Sciences (BITS) in Magical Praxeology and Spell Dynamics
 - Jason's half brother, unknown to Garrett and Jason
-- Cares deeply for Nora, but always seems too busy or preoccuppied to act on it
+- Cares deeply for Nora, but doesn't want to impact his friendship with Brent
 - Reckless but intelligent, has a habit of following his gut but being right about it more often than not; Able to see patterns that others cannot, likely a result of watching his father work and research growing up, which focused on discovering new physical and magical interactions; Intensely protective of his friends and family, he will put himself in harm's way to make sure everyone else is ok
 
 ## Jason Black (initial antagonist)
@@ -19,27 +19,30 @@
 ## Brent Hodges
 - Weaved (can access magic)
 - Garrett’s childhood friend
+- Excels in auras, using his athleticism to further increase his magical potential and effect
 - Recent graduate of The Blackwell Institute of Thaumaturgical Sciences (BITS) in both Spell Dynamics and Artifactory Research
 - Generally cheerful, light-hearted, and go with the flow, he’s always been the gravity that pulls other friends in; Comedic relief, which helps him and others overcome otherwise tense and / or dangerous situations; Booksmart and well-studied, but lacks some of the intuition that sometimes puts Garrett in the limelight
 
 ## Dillon Dreyer
 - Weaved (can access magic)
 - Garrett’s childhood friend
+- Excels in spells, able to learn and master far more spells than most due to his eidetic memory
 - Recent graduate of The Blackwell Institute of Thaumaturgical Sciences (BITS) in Historical Magic Studies and Aural Studies
 - Cautious, timid, but with a sneaky level of intelligence due to his eidetic memory, he is always the careful one; Plays the role of devil’s advocate to Garrett and Brent’s usual impulsive and grand ideas, but never leaves them Garrent and Brent behind; History buff, specifically history of modern magic and ancient magical myths and folklore
 
 ## Nora Hodges
 - Weaved (can access magic)
-- Brent’s sister
+- Brent Hodges' sister
 - Recent graduate of The Blackwell Institute of Thaumaturgical Sciences (BITS) in Thaumaturgical Computing and AI
 - Focused more on scientific research, works under Garrett's mother in her quantum computing lab
 - Headstrong but loyal, cares deeply for Garrett but doesn't want to come between Brent and Garrett's friendship
 
 ## Michael Brand
 - Weaved (can access magic)
-- Garrett and Jason’s father
+- Garrett and Jason’s father (unknown to Jason initially)
+- Disappeared, presumed dead
 - Vera's ex-wife.  They seperated when her ambition drove them apart.  Michael didn't know Vera was pregnant with Jason when he left.
-- Renowned magic historian and “archaeologist”. First to find hints of a new school of magic, ultimately determined to be sigils during the main story. Obsessed with pushing the boundaries of magic and magic/non-magic relations.  Was on the brink of discovering a new school of magic before mysteriously disappearing and presumed dead
+- Renowned magic historian and “archaeologist”. Obsessed with pushing the boundaries of magic and magic/non-magic relations.  Was on the brink of a major magical discovery before mysteriously disappearing
 - Worked closely with Dr. Asher Reed and his wife, Dr. Marie Brand 
 
 ## Dr. Marie Brand
@@ -57,7 +60,6 @@
 - Descendent of Elizabeth Blackwell, renowned 17th century weaved scientist and whom The Blackwell Institute of Thaumaturgical Sciences (BITS) is named for
 - Head of Black Industries, a seemingly philanthropic juggernaut hiding a massive magic research and development operation, focused mostly on uncovering ancient, powerful magic and creating new magical weapons
 - Wields charm and social prestige as weapons, maintaining a sterling public image through strategic philanthropy and calculated kindness. Her practiced warmth masks a predatory mind that categorizes people as assets or obstacles. When wronged, she dismantles opponents through subtle manipulation and strategic character assassination, always maintaining an appearance of innocence. Her greatest pleasure lies in watching adversaries destroy themselves while she observes from a comfortable distance
-- Has documents and relics from her family estate, as well as some of Michael's research, that provide clues to the discovery of sigils during the main story
 
 ## Dr. Asher Reed
 - Weaved (can access magic)
@@ -69,8 +71,10 @@
 
 ## Gunter Mannheim
 - Unweaved (cannot access magic)
-- Was the navigator for Michael's expedition.  Only survivor or didn't disappear.  
-- Marie Brand doesn't initially trust him as his outward demeanor is not the friendliest and she partially blames him for her husband's disappearance, even though he was the one who tried to save the expedition
+- Was the guide for Michael's expedition.  Only survivor or didn't disappear.  
+- German ex-special forces, Kommando Spezialkräfte (KSK)
 - Hard-nosed, gruff, but ultimately fair man. He’s known as an expert forger of magical relics and has an expansive knowledge of magical antiquities. He has a strict personal code of ethics, but is willing to work with people he normally wouldn't, provided that their interests do not conflict with his. 
 - Values discretion above all else, and is a bit of a recluse, preferring to work alone, in his workshop, or in the forests surrounding his property near Prague. He has a deep understanding of magic history, and can often see things others cannot. His gruff exterior hides a keen sense of humor, and he has a dry wit that often catches people off guard. While he might seem standoffish at first, he is ultimately loyal to those he deems worthy.
 - Stocky man, with a rugged appearance. He has a full beard and a weathered face that bears the marks of years spent outdoors. He often wears practical clothing that is suitable for his work.
+- Eventually reveals he was the only one who "came back" from Michael Brand's expedition but doesn't understand why.  He maintained detailed journals about expedition, including seemingly irrelevant details that become crucial
+- Helps team during final confrontation with practical, non-magical solutions

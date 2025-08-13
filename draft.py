@@ -18,7 +18,7 @@ novel.parse_outline_json()
 # Write chapter outlines
 previous_chapter_outline = "This is the beginning of the novel so it does not have a previous chapter."
 previous_chapter_summary = previous_chapter_outline
-chapter_summaries = [chapter for part in novel.parsed_plot for chapter in part['chapter-descriptions']]
+chapter_summaries = [chapter for act in novel.parsed_plot_outline for chapter in act['chapter-descriptions']]
 for i, chapter_summary in enumerate(chapter_summaries):
     chapter_number = i+1
     if not getattr(novel, "chapter_outlines", None):
@@ -66,8 +66,8 @@ for chapter_number, chapter_paragraph_descriptions in novel.parsed_chapter_outli
                 next_paragraph_descriptions = []
             else:
                 next_paragraph_descriptions = paragraph_descriptions_block_list[block_number+1]
-            part = novel.parsed_plot[(int(chapter_number)-1) // 6]
-            chapter_summary = part['chapter-descriptions'][(int(chapter_number)-1) % 6]
+            act = novel.parsed_plot_outline[(int(chapter_number)-1) // 6]
+            chapter_summary = act['chapter-descriptions'][(int(chapter_number)-1) % 6]
             redo = True
             while redo:
                 paragraph_block = novel.write_paragraph_block(

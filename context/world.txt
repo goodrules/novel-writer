@@ -1,13 +1,15 @@
-# Narrative Inspiration: 
-- Sigma Force series (James Rollins)
-- Red Rising (Pierce Brown)
-- Lies of Locke Lamora (Scott Lynch)
+# Notes on Narrative Inspiration: 
+- Red Rising
+- Lies of Locke Lamora
+- Mistborn
+- Dungeon Crawler Carl
 - League of Legends / Arcane (magic and non-magic users, hextech)
 
-# World setting:
+# Notes on the World:
 - Modern day earth, but magic has been discovered and leveraged for roughly the past 1000 years.  Technological innovation still mostly occurred as not everyone on Earth is a magic-user, however there were parallel magic innovations occurring throughout history.
 - Individuals who can access magic are referred to as "weaved"
 - Individuals who cannot access magic are referred to as "unweaved"
+- Some research has indicated that magic is a quantum force, or somehow related to quantum forces
 
 # Notes on the Magic system:
 ## Schools of Magic
@@ -24,49 +26,7 @@
 ## Core Disciplines
 ### Artifactory
 - The study of magical objects, tools, and constructed elements from past civilizations. Artifactors specialize in the analysis, preservation, and understanding of magical artifacts.
-#### Key Areas of Study:
-- Ancient foci and their construction methods
-- Magical material composition and decay
-- Authentication of historical magical objects
-- Preservation of unstable magical artifacts
-- Mapping of magical energy residue in artifacts
-#### Notable Discoveries:
-- The Baghdad Capacitor (believed to be the first attempted magical energy storage device)
-- The Antikythera Mechanism's thaumaturgical components
 ### Magical Praxeology
 The examination of historical magical techniques, methodologies, and technological development. Praxeologists focus on understanding how magic was performed and how magical knowledge evolved over time.
-#### Key Areas of Study:
-- Evolution of spellcasting techniques
-- Historical magical education and training
-- Development of magical notation and documentation
-- Cross-cultural magical practices
-- Lost or obsolete magical techniques
-#### Notable Discoveries:
-- The Three Schools divergence in the early Bronze Age
-- Evidence of prehistoric aura manipulation
-- The Great Library's hidden grimoire chamber
 ### Thaumasociology
 The study of how past societies integrated magic into their cultural, political, and economic systems. Thaumasociologists examine the social implications and organizations of historical magical practice.
-#### Key Areas of Study:
-- Magic user/non-magic user historical dynamics
-- Magical governance and regulation through history
-- Cultural attitudes toward different schools of magic
-- Trade networks for magical goods and knowledge
-- Religious and spiritual aspects of historical magic use
-#### Notable Discoveries:
-- The Magical Merchant Guilds of the Silk Road
-- Evidence of non-magic user participation in ancient magical rituals
-## Methodologies
-### Field Methods
-- Magical residue dating
-- Thaumaturgical stratigraphy
-- Magical energy mapping
-- Non-invasive magical scanning
-### Laboratory Techniques
-- Magical signature analysis
-- Thaumaturgical reconstruction
-- Energy pattern dating
-- Magical materials analysis
-- Residual spell mapping
-## Governing Entities
-International Council of Thaumarchaeological Research (ICTR)

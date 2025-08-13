@@ -17,7 +17,7 @@ if not getattr(novel, "characters", None):
     novel.setup()
     redo = True
     while redo:
-        print(novel.create_characters(writer))
+        print(novel.create_characters(outliner))
         redo = redo_prompt()
     novel_number = save_new(novel)
 
@@ -25,7 +25,7 @@ if not getattr(novel, "characters", None):
 if not getattr(novel, "settings", None):
     redo = True
     while redo:
-        print(novel.create_settings(writer))
+        print(novel.create_settings(outliner))
         redo = redo_prompt()
     save(novel, novel_number)
 
@@ -33,7 +33,15 @@ if not getattr(novel, "settings", None):
 if not getattr(novel, "plot", None):
     redo = True
     while redo:
-        print(novel.create_plot(writer))
+        print(novel.create_plot(outliner))
+        redo = redo_prompt()
+    save(novel, novel_number)
+
+# Subplots
+if not getattr(novel, "subplots", None):
+    redo = True
+    while redo:
+        print(novel.create_subplots(outliner))
         redo = redo_prompt()
     save(novel, novel_number)
 
@@ -44,13 +52,6 @@ if not getattr(novel, "synopsis", None):
         print(novel.create_synopsis(writer))
         redo = redo_prompt()
     save(novel, novel_number)
-    
-# Title
-if not getattr(novel, "title", None):
-    redo = True
-    while redo:
-        print(novel.create_title(writer))
-        redo = redo_prompt()
-    save(novel, novel_number)
 
-print(f"This concludes the novel outlining process. You should now review the file at novels/{novel_number}.json and make edits as needed. After editing the file, run draft.py.")
+
+print(f"This concludes the initial novel outline. You should now review the file at novels/{novel_number}.json and make edits as needed. After editing the file, run expand_outline.py.")
